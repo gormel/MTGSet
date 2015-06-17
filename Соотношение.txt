@@ -1,0 +1,27 @@
+zen:
+{
+	all: 234
+	myphic: 15 (6%)
+	rare: 53 (23%)
+	uncommon: 60 (26%)
+	common: 101 (43%)
+	basic land: 5
+
+	colored: 39
+	colorless: 15
+
+	artifact: 15 (6%)
+	creatures:
+	{
+		all: 112 (48%)
+		myphic: 9
+		rare: 23
+		uncommon: 25
+		common: 55
+	}
+	enchantment: 26 (11%)
+	instant: 36 (15%)
+	land: 25 (10%)
+	plaiunswalker: 3 (1%)
+	sorcery: 19 (8%)
+}
